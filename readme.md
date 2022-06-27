@@ -38,11 +38,11 @@ Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
 ### Option 1 (automatic)
 You can setup your sei fullnode in few minutes by using automated script below. It will prompt you to input your validator node name!
 ```
-wget -O sei.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sei/sei.sh && chmod +x sei.sh && ./sei.sh
+wget -O sei.sh https://raw.githubusercontent.com/applejuice28/sei/main/sei.sh && chmod +x sei.sh && ./sei.sh
 ```
 
 ### Option 2 (manual)
-You can follow [manual guide](https://github.com/kj89/testnet_manuals/blob/main/sei/manual_install.md) if you better prefer setting up node manually
+You can follow [manual guide](https://github.com/applejuice28/sei/blob/main/manual_install.md)if you better prefer setting up node manually
 
 ## Post installation
 
@@ -83,7 +83,7 @@ source $HOME/.bash_profile
 ```
 
 ### Fund your wallet
-To top up your wallet join [Sei discord server](https://discord.gg/CSczWRVT) and navigate to **#testnet-faucet** channel
+To top up your wallet join [Sei discord server](https://discord.com/invite/kY6byr37af) and navigate to **#testnet-faucet** channel
 
 To request a faucet grant:
 ```
