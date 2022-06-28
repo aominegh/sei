@@ -49,7 +49,7 @@ cd $HOME
 sudo rm sei-chain -rf
 git clone https://github.com/sei-protocol/sei-chain.git
 cd sei-chain
-git checkout 1.0.4beta
+git checkout 1.0.2beta
 make install 
 sudo mv ~/go/bin/seid /usr/local/bin/seid
 
